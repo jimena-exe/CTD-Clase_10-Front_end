@@ -242,8 +242,7 @@ footer{
         margin-bottom: 10px;
     }
     .plus{
-        height: 100px;
-        width: 100vw;
+        height: 90px;
         position: sticky;
         top: 2px;
         bottom: 2px;
@@ -252,7 +251,7 @@ footer{
 
     .bolita{
         position: relative;
-        right: 30px;
+        margin-right: 36px;
     }
 
 }
